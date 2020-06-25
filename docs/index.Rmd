@@ -1,61 +1,74 @@
 ---
-title: "----------------------------- --------------------------------------------------  Francisco Meneses-Rivas"
-date: "24-06-2020"
-output: rmdformats::readthedown
+title: "Francisco Meneses"
+output: rmdformats::material
 ---
 
 <div style="text-align: justify">
 
-## Perfil profesional 
+***
+# __Perfil profesional__ {.tabset .tabset-fade .tabset-pills}
 
-- Seminarista postulante al grado de licenciado de sociologia de la univercidad de chile, abocado a la investigacion social sobre la educacion civica y la participacion ciudadana. Sociolo especializado en las metodologias cuantitativas avanzadas (ej. SEM,analsisi multinuivel, encuestas factoriales, experimentos, entre otros) y en el uso de plataformas para la  ciencia abierta (i.e Rstudio, Rmardowm, Github, OSF). 
+Profesor autodidacta, asistente de investigación FONDECYT 1160921 y postulante a licenciado en sociología de la Universidad de chile, abocado actualmente a la investigación social sobre la educación cívica. Como sociólogo me he especializado en técnicas cuantitativas avanzadas (ej. SEM, análisis multinivel, encuestas factoriales, simulaciones Montecarlo, entre otros) y en el uso de plataformas para la ciencia abierta (i.e Rstudio, Rmarkdowm, Github, OSF). 
 
+## Herramientas Open-science
+
+Manejo a nivel intermedio los siguientes softwares libres 
+
+![](../input/images/logos.png) 
+
+
+## Habilidades
+
+Mi experiencia como docente, enseñando en distintas modalidades y a personas de distintos contextos, me ha permitido desarrollar habilidades blandas útiles para una comunicación efectiva. Soy hábil sistematizando información y exponiendo de manera sencilla para su recepción.  
+
+## Publicaciones 
+
+* [Analizando la violencia en las relaciones de pareja: el efecto de la violencia psicológica y las conductas controladoras en la violencia física y sexual](http://revistanemesis.cl/wp-content/uploads/2019/12/Revista-N%C3%A9mesis-2019-XV-Analizando-la-violencia-en-las-relaciones-de-pareja.pdf)  
+
+* [La demanda por igualdad y los caminos que cuentan con amplio respaldo ciudadano](https://ciperchile.cl/2019/12/06/la-demanda-por-igualdad-y-los-caminos-que-cuentan-con-amplio-respaldo-ciudadano/)
 
 ***
 # Experiencia laboral {.tabset .tabset-fade .tabset-pills}
 
-## Programacion de sitios web
+## Programación de sitios web
 
-- __[Agosto 2019 - Julio 2020]__ Asistente de investigacion en el Fondecyt de *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
-    + Gestion de publicaciones con herramientas de ciencia abierta con Rmarkdowm y Github Productos:
+- __[Agosto 2019 - Julio 2020]__ Asistente de investigación en el FONDECYT de *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
+    + Gestión de publicaciones con herramientas de ciencia abierta con Rmarkdowm y Github:
         * [Escala de creencias meritocraticas](https://juancarloscastillo.github.io/merit-scale/)
-        * [Relacion internacional entre preferencias redistibutivas y creencias meritocraticas](https://juancarloscastillo.github.io/meritocracy-preferences/)
+        * [relación internacional entre preferencias redistributivas y creencias meritocraticas](https://juancarloscastillo.github.io/meritocracy-preferences/)
         
 - __[Marzo 2020 - Septiembre 2020]__ Seminario de grado. 
-    + Mi Semniario de grado se encuentra disponible en el siguiente sitio Github 
+    + Mi seminario de grado se encuentra disponible en el siguiente sitio Github 
         *[Seminario de grado: ¿Como disminuir la desigualdad en el conocimiento civico?](https://franciscomeneses.github.io/Seminario/docs/index.html)
 
 
-## Investigacion
+## Investigación
 
-- __[Agosto 2019 - Julio 2020]__ Asistente de investigacion en el Fondecyt de *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
-    + Gestion de publicaciones con herramientas de ciencia abierta con Rmarkdowm y Github Productos
-    + Analisis de datos
-        * Analisis multinivel
-        * Analisis factoriales
-        * Graficos descriptivos
+- __[Agosto 2019 - Julio 2020]__ Asistente de investigación en el FONDECYT de *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
+    + Planificación, producción y gestión de encuestas en línea
+    + Análisis de datos cuantitativos.
 
 - __[Noviembre 2018 - Mayo 2019]__ Personal técnico en proyecto FONDECYT *"Detección de relaciones no lineales entre variables latentes"* 
-    + Organizacion de conferencias.
-    + Simulacion de datos montecarlos: Condiciones de aplicacion de la peurba t-student. 
-    + Participacion en el congreso ACME en presentacion de poster (*Premio William Gosset al mejorpóster de estudiante de pregrado*)
+    + Organización de conferencias.
+    + Simulación de datos Montecarlo: Condiciones de aplicación de la prueba t-student. 
+    + Participación en el congreso ACME en presentación de poster (*Premio William Gosset al mejor poster de estudiante de pregrado*)
 
-- __[Diciembre 2018 - Febero 2019]___ Personal técnico en proyecto FONDECYT *"Movimiento estudiantil en el Chile post dictadura: un estudio longitudinal en los dominios grupal y macrosocial"*  
-    + Construccion de base de datos longitudinal con datos de opinion publica desde 1990 hasta el 2015. #2
+- __[Diciembre 2018 - Febrero 2019]___ Personal técnico en proyecto FONDECYT *"Movimiento estudiantil en el Chile post dictadura: un estudio longitudinal en los dominios grupal y macrosocial"*  
+    + Construcción de base de datos longitudinal con datos de opinión publica desde 1990 hasta el 2015. 
 
 ## Docencia
-- __[Agosto 2017 - Junio 2020]__ Profesor particular en la compañia Tutotes Uchile 
+- __[Agosto 2017 - Junio 2020]__ Profesor particular en la compañía Tutotes Uchile 
     + Clases particulares a universitarios en proceso de tesis.
-    + Clases de sociologia a estudiantes de bachillerato. 
+    + Clases de sociología a estudiantes de bachillerato. 
     + Clases a postulantes al proceso universitario (Ex PSU)
-    + Clases a cursos del instituto nacional y colegio Rauli. 
+    + Clases a cursos del instituto nacional y colegio Raulí. 
 
 
 - __[Marzo 2017 - Diciembre 2019]__ Ayudante de Catedra en la Universidad de Chile.
 
   + Curso de [Estadistica-Multivariada](https://juancarloscastillo.github.io/metsoc-facsouchile/index.html) 
-  + Tecnicas cuantitativas de investigacion social
-	+ Estadistica Correlacional
-	+ Estadistica Descriptiva
-	+ Teoria sociologica clasica
-	+ Diseños de investigacion social. #3
+  + Técnicas cuantitativas de investigación social
+	+ Estadística Correlacional
+	+ Estadística Descriptiva
+	+ Teoria sociológica clásica
+	+ Diseños de investigación social.
