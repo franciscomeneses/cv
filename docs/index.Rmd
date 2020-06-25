@@ -8,7 +8,7 @@ output: rmdformats::material
 ***
 # __Perfil profesional__ {.tabset .tabset-fade .tabset-pills}
 
-Profesor autodidacta, asistente de investigación FONDECYT 1160921 y postulante a licenciado en sociología de la Universidad de chile, abocado actualmente a la investigación social sobre la educación cívica. Como sociólogo me he especializado en técnicas cuantitativas avanzadas (ej. SEM, análisis multinivel, encuestas factoriales, simulaciones Montecarlo, entre otros) y en el uso de plataformas para la ciencia abierta (i.e Rstudio, Rmarkdowm, Github, OSF). 
+Profesor autodidacta, asistente de investigación proyecto FONDECYT 1160921 y postulante a licenciado en Sociología de la Universidad de Chile, abocado actualmente a la investigación social sobre la educación cívica. Como sociólogo me he especializado en técnicas cuantitativas avanzadas (ej. SEM, análisis multinivel, encuestas factoriales, simulaciones Montecarlo, entre otros) y en el uso de plataformas para la ciencia abierta (i.e Rstudio, Rmarkdowm, Github, OSF). 
 
 ## Herramientas Open-science
 
@@ -27,48 +27,57 @@ Mi experiencia como docente, enseñando en distintas modalidades y a personas de
 
 * [La demanda por igualdad y los caminos que cuentan con amplio respaldo ciudadano](https://ciperchile.cl/2019/12/06/la-demanda-por-igualdad-y-los-caminos-que-cuentan-con-amplio-respaldo-ciudadano/)
 
+*  Castillo, JC.; Meneses, F.; Iturra, J. & Maldonado, L. (2020). Cambios en la percepción y justificación de desigualdad salarial en Chile. En Baño, R.; Fazio, H.; Mayol, A. & Ruiz, C. (Ed.), *Análisis del año 2019* (pp.149-163). Santiago, Chile: Departamento de Sociología, Universidad de Chile.
+
+
 ***
-# Experiencia laboral {.tabset .tabset-fade .tabset-pills}
+# __Experiencia laboral__ {.tabset .tabset-fade .tabset-pills}
 
 ## Programación de sitios web
 
-- __[Agosto 2019 - Julio 2020]__ Asistente de investigación en el FONDECYT de *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
-    + Gestión de publicaciones con herramientas de ciencia abierta con Rmarkdowm y Github:
+- __[Agosto 2019 - Julio 2020]__ Asistente de investigación en el proyecto FONDECYT *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
+    + Gestión de publicaciones con herramientas de ciencia abierta (Rmarkdowm y Github):
         * [Escala de creencias meritocraticas](https://juancarloscastillo.github.io/merit-scale/)
-        * [relación internacional entre preferencias redistributivas y creencias meritocraticas](https://juancarloscastillo.github.io/meritocracy-preferences/)
+        * [Relación internacional entre preferencias redistributivas y creencias meritocraticas](https://juancarloscastillo.github.io/meritocracy-preferences/)
         
 - __[Marzo 2020 - Septiembre 2020]__ Seminario de grado. 
     + Mi seminario de grado se encuentra disponible en el siguiente sitio Github 
-        *[Seminario de grado: ¿Como disminuir la desigualdad en el conocimiento civico?](https://franciscomeneses.github.io/Seminario/docs/index.html)
+        * [Seminario de grado: ¿Como disminuir la desigualdad en el conocimiento civico?](https://franciscomeneses.github.io/Seminario/docs/index.html)
 
 
 ## Investigación
 
-- __[Agosto 2019 - Julio 2020]__ Asistente de investigación en el FONDECYT de *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
-    + Planificación, producción y gestión de encuestas en línea
+- __[Agosto 2019 - Julio 2020]__ Asistente de investigación en el proyecto FONDECYT *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
+    + Planificación, producción y gestión de encuestas en línea.
     + Análisis de datos cuantitativos.
+    + Correo de contacto: juancastillov@uchile.cl 
 
 - __[Noviembre 2018 - Mayo 2019]__ Personal técnico en proyecto FONDECYT *"Detección de relaciones no lineales entre variables latentes"* 
     + Organización de conferencias.
     + Simulación de datos Montecarlo: Condiciones de aplicación de la prueba t-student. 
     + Participación en el congreso ACME en presentación de poster (*Premio William Gosset al mejor poster de estudiante de pregrado*)
+    + Correo de contacto: rdznavarro@uchile.cl
 
-- __[Diciembre 2018 - Febrero 2019]___ Personal técnico en proyecto FONDECYT *"Movimiento estudiantil en el Chile post dictadura: un estudio longitudinal en los dominios grupal y macrosocial"*  
-    + Construcción de base de datos longitudinal con datos de opinión publica desde 1990 hasta el 2015. 
+- __[Diciembre 2018 - Febrero 2019]__ Personal técnico en proyecto FONDECYT *"Movimiento estudiantil en el Chile post dictadura: un estudio longitudinal en los dominios grupal y macrosocial"*  
+    + Construcción de base de datos longitudinal con datos de opinión publica desde 1990 hasta el 2015 con la encuesta CEP. 
+    + Correo de contacto: rasun@uchile.cl
 
 ## Docencia
-- __[Agosto 2017 - Junio 2020]__ Profesor particular en la compañía Tutotes Uchile 
+- __[Agosto 2017 - Junio 2020]__ Profesor particular en la compañía Tutores Uchile 
     + Clases particulares a universitarios en proceso de tesis.
     + Clases de sociología a estudiantes de bachillerato. 
-    + Clases a postulantes al proceso universitario (Ex PSU)
+    + Clases de preuniversitario. 
     + Clases a cursos del instituto nacional y colegio Raulí. 
+    + Teléfono de contacto: Wilfredo Barra +56942264881
 
 
-- __[Marzo 2017 - Diciembre 2019]__ Ayudante de Catedra en la Universidad de Chile.
-
-  + Curso de [Estadistica-Multivariada](https://juancarloscastillo.github.io/metsoc-facsouchile/index.html) 
-  + Técnicas cuantitativas de investigación social
-	+ Estadística Correlacional
-	+ Estadística Descriptiva
-	+ Teoria sociológica clásica
-	+ Diseños de investigación social.
+- __[Marzo 2017 - Diciembre 2019]__ Ayudante de Cátedra en la carrera de Sociología en la Universidad de Chile.
+  
+  + [Estadística-Multivariada.](https://juancarloscastillo.github.io/metsoc-facsouchile/index.html)
+  + Filosofía social.
+  + Estadística Correlacional.
+  + Estadística Descriptiva.
+  + Teoría sociológica clásica.
+  + Diseños de investigación social.
+  + Técnicas cuantitativas de investigación social.  
+ 
