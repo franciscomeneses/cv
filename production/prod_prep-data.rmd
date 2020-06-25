@@ -1,0 +1,9 @@
+---
+title: "Data preparation"
+date: "`r format(Sys.time(), '%A %d %B %Y %X')`"
+css: "../input/bib/style.css"
+output:
+  html_document: rmdformats::readthedown
+---
+
+# hola

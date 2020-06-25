@@ -1,0 +1,25 @@
+name: "meritredist2019"
+output_dir: "." # Esto es para que se compile en el rootdir
+navbar:
+  title: "Cuccirculum Vitae"
+  right:
+    - text: "Descargar en PDF"
+      icon: fa-file-pdf
+      href: "pdf.pdf" 
+    - text: "Linkedin"
+      href: https://www.linkedin.com/in/francisco-javier-meneses-rivas-63a4a7151/
+    - text: ""
+      icon: fa-github fa-lg
+      href: https://github.com/juancarloscastillo/meritocracy-preferences
+   
+      
+      
+output:
+    html_document:
+      theme: flatly
+      highlight: pygments
+      css: "../input/bib/style.css"
+      includes:
+        in_header: academicons.html
+        after_body: footer.html
+  

@@ -1,0 +1,61 @@
+---
+title: "----------------------------- --------------------------------------------------  Francisco Meneses-Rivas"
+date: "24-06-2020"
+output: rmdformats::readthedown
+---
+
+<div style="text-align: justify">
+
+## Perfil profesional 
+
+- Seminarista postulante al grado de licenciado de sociologia de la univercidad de chile, abocado a la investigacion social sobre la educacion civica y la participacion ciudadana. Sociolo especializado en las metodologias cuantitativas avanzadas (ej. SEM,analsisi multinuivel, encuestas factoriales, experimentos, entre otros) y en el uso de plataformas para la  ciencia abierta (i.e Rstudio, Rmardowm, Github, OSF). 
+
+
+***
+# Experiencia laboral {.tabset .tabset-fade .tabset-pills}
+
+## Programacion de sitios web
+
+- __[Agosto 2019 - Julio 2020]__ Asistente de investigacion en el Fondecyt de *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
+    + Gestion de publicaciones con herramientas de ciencia abierta con Rmarkdowm y Github Productos:
+        * [Escala de creencias meritocraticas](https://juancarloscastillo.github.io/merit-scale/)
+        * [Relacion internacional entre preferencias redistibutivas y creencias meritocraticas](https://juancarloscastillo.github.io/meritocracy-preferences/)
+        
+- __[Marzo 2020 - Septiembre 2020]__ Seminario de grado. 
+    + Mi Semniario de grado se encuentra disponible en el siguiente sitio Github 
+        *[Seminario de grado: ¿Como disminuir la desigualdad en el conocimiento civico?](https://franciscomeneses.github.io/Seminario/docs/index.html)
+
+
+## Investigacion
+
+- __[Agosto 2019 - Julio 2020]__ Asistente de investigacion en el Fondecyt de *“Economía Moral de la Meritocracia y Preferencias Distributivas”*
+    + Gestion de publicaciones con herramientas de ciencia abierta con Rmarkdowm y Github Productos
+    + Analisis de datos
+        * Analisis multinivel
+        * Analisis factoriales
+        * Graficos descriptivos
+
+- __[Noviembre 2018 - Mayo 2019]__ Personal técnico en proyecto FONDECYT *"Detección de relaciones no lineales entre variables latentes"* 
+    + Organizacion de conferencias.
+    + Simulacion de datos montecarlos: Condiciones de aplicacion de la peurba t-student. 
+    + Participacion en el congreso ACME en presentacion de poster (*Premio William Gosset al mejorpóster de estudiante de pregrado*)
+
+- __[Diciembre 2018 - Febero 2019]___ Personal técnico en proyecto FONDECYT *"Movimiento estudiantil en el Chile post dictadura: un estudio longitudinal en los dominios grupal y macrosocial"*  
+    + Construccion de base de datos longitudinal con datos de opinion publica desde 1990 hasta el 2015. #2
+
+## Docencia
+- __[Agosto 2017 - Junio 2020]__ Profesor particular en la compañia Tutotes Uchile 
+    + Clases particulares a universitarios en proceso de tesis.
+    + Clases de sociologia a estudiantes de bachillerato. 
+    + Clases a postulantes al proceso universitario (Ex PSU)
+    + Clases a cursos del instituto nacional y colegio Rauli. 
+
+
+- __[Marzo 2017 - Diciembre 2019]__ Ayudante de Catedra en la Universidad de Chile.
+
+  + Curso de [Estadistica-Multivariada](https://juancarloscastillo.github.io/metsoc-facsouchile/index.html) 
+  + Tecnicas cuantitativas de investigacion social
+	+ Estadistica Correlacional
+	+ Estadistica Descriptiva
+	+ Teoria sociologica clasica
+	+ Diseños de investigacion social. #3
