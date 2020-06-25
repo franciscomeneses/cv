@@ -8,7 +8,7 @@ output: rmdformats::material
 ***
 # __Perfil profesional__ {.tabset .tabset-fade .tabset-pills}
 
-Profesor autodidacta, asistente de investigación proyecto FONDECYT 1160921 y postulante a licenciado en Sociología de la Universidad de Chile, abocado actualmente a la investigación social sobre la educación cívica. Como sociólogo me he especializado en técnicas cuantitativas avanzadas (ej. SEM, análisis multinivel, encuestas factoriales, simulaciones Montecarlo, entre otros) y en el uso de plataformas para la ciencia abierta (i.e Rstudio, Rmarkdowm, Github, OSF). 
+Profesor autodidacta, asistente de investigación proyecto FONDECYT 1160921 y postulante a licenciado en Sociología de la Universidad de Chile, abocado actualmente a la investigación social en educación cívica. Como sociólogo me he especializado en técnicas cuantitativas avanzadas (ej. SEM, análisis multinivel, encuestas factoriales, simulaciones Montecarlo, entre otros) y en el uso de plataformas para la ciencia abierta (i.e Rstudio, Rmarkdowm, Github, OSF). 
 
 ## Herramientas Open-science
 
