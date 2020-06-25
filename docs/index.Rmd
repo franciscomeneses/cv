@@ -14,7 +14,7 @@ Profesor autodidacta, asistente de investigación FONDECYT 1160921 y postulante 
 
 Manejo a nivel intermedio los siguientes softwares libres 
 
-![](../input/images/logos.png) 
+![](https://raw.githubusercontent.com/franciscomeneses/cv/master/input/images/logos.png) 
 
 
 ## Habilidades
